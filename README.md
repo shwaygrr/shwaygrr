@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, i'm Chwoeger 👋
 
-<!--
-**shwaygrr/shwaygrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗣️ My name is pronounced Sh - way - gar
+
+- 📚 I am a computer science student at FAU
+
+- 🧠 Knowledgeble in C++ and Javascript
+  - learning python
+
+- :zap: I enjoy playing basketball in my free time, 
+
+- 📫 Contact me at:
+  * https://www.linkedin.com/in/chwoeger-charleston-8a8b12271/
+  * chwoegerc03@gmail.com
+
+
