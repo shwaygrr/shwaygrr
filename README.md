@@ -1,4 +1,4 @@
-### Hi there, i'm Chwoeger 👋
+### hi there, i'm Chwoeger 👋
 
 
 ### :man_technologist: About Me :
