@@ -7,8 +7,8 @@
 
 - 📚 I am a computer science student at FAU
 
-- 🧠 Knowledgeble in C++ and Javascript
-  - learning python
+- 🧠 Proficient in C++, Javascript, Python
+  - learning Node, React
 
 - :zap: I enjoy playing basketball in my free time, 
 
